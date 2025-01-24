@@ -1,1 +1,8 @@
+python==3.11.11
+RDKit-pypi==2022.09.5
+pandas==2.2.2
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torch-geometric==2.6.1
+matplotlib==3.10.0
 
