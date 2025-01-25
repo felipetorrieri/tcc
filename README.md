@@ -1,6 +1,6 @@
-# Códigos do TCC
+# Implementações da Geração de Moléculas usando GANs, VAEs e GNNs
 
-Este repositório contém os códigos utilizados no Trabalho de Conclusão de Curso (TCC) de **Felipe Torrieri**. O projeto foi desenvolvido com o objetivo de realizar uma análise comparativa da geração de conjuntos de moléculas utilizando redes generativas adversárias (GANs) e outros métodos.
+Este repositório contém os códigos utilizados no Trabalho de Conclusão de Curso (TCC) de **Felipe Torrieri** intitulado "Análise comparativa de desempenho da geração de conjuntos de moléculas utilizando redes generativas adversárias e outros métodos". O projeto foi desenvolvido com o objetivo de realizar uma análise comparativa da geração de conjuntos de moléculas utilizando redes generativas adversárias (GANs) e outros métodos, como VAEs e GNNs.
 
 ## Estrutura do Repositório
 
