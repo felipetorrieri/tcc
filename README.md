@@ -36,6 +36,14 @@ pip install -r requirements.txt
    ```
 3. Abra o arquivo `TCC_Datasets_e_métodos.ipynb` no Google Colab e execute as células.
 
+## Referências e Fontes
+Os códigos deste repositório foram baseados em diversas implementações disponíveis na literatura e em projetos open-source. Abaixo estão algumas das principais fontes utilizadas:
+
+- [Implementação da criação de novas moléculas utilizando GANs](https://github.com/AshutoshRajpal/SMILES_GAN/blob/main/Generate_Novel_Molecules.ipynb)
+- [Implementação da criação de novas moléculas utilizando VAEs](https://github.com/aksub99/molecular-vae/blob/master/Molecular_VAE.ipynb)
+- [Implementação da criação de novas moléculas utilizando GNNs](https://github.com/masashitsubaki/molecularGNN_smiles)
+
+
 ## Contato
 
 Caso tenha dúvidas ou sugestões, entre em contato via felipe.torrieri@hotmail.com ou pelo meu github @felipetorrieri.
